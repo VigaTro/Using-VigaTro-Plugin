@@ -9,4 +9,4 @@
  ### Step 2:
  
   Open plugin and click the start button.
-  [TEXTO](https://cdn.discordapp.com/attachments/1092110245968486432/1092110266679955556/image.png)
+  ![TEXTO](https://cdn.discordapp.com/attachments/1092110245968486432/1092110266679955556/image.png)
